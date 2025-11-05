@@ -34,7 +34,7 @@ try:
     collection = db.ipo_data
 
     driver = webdriver.Chrome(options=options)
-    driver.get("https://ipopremium.in/")
+    driver.get("ENTER YOUR WEBSITE TO SCRAPE")
 
     # Wait for table to load
     time.sleep(7)  # Adjust if your network is slow
